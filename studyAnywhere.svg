@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 944 664" style="enable-background:new 0 0 944 664;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#9E9E9E;}
+	.st1{fill:#D3D1D1;}
+	.st2{fill:#444444;}
+	.st3{fill:none;stroke:#9E9E9E;stroke-width:21;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{fill:#A5A5A5;}
+	.st5{fill:#6B6B6B;}
+	.st6{fill:#DDDDDD;}
+	.st7{fill:#CCCCCC;}
+</style>
+<g id="bg">
+	<path class="st0" d="M297,538.8c-0.6,10.8,4.4,21.9,15.1,28.2l130.1,76.7c9.6,5.7,21.6,5.7,31.2,0l130.1-76.7
+		c12-7.1,15.6-20,15.5-32.4l-0.5-70.3l-101.9-2.4l-43-25.8c-9.7-5.8-21.9-5.8-31.6,0l-39.3,23.6l-105.4,5.8L297,538.8z"/>
+</g>
+<g id="fg">
+	<path class="st1" d="M603.7,492.1l-130.1,76.7c-9.6,5.7-21.6,5.7-31.2,0l-130.1-76.7c-20.1-11.8-20.2-40.8-0.2-52.8l130.1-78.1
+		c9.7-5.8,21.9-5.8,31.6,0l130.1,78.1C623.9,451.3,623.8,480.2,603.7,492.1z"/>
+</g>
+<g id="ballShadow">
+	<ellipse class="st2" cx="458.1" cy="471.4" rx="49.7" ry="34.3"/>
+</g>
+<g id="ball">
+	<circle class="st0" cx="458" cy="424.4" r="52"/>
+</g>
+<g id="wires">
+	<path class="st3" d="M178,347.6c0,0,20,43.6,72.3,49.1c80.6,8.6,95.2,18.9,130.9,29.4"/>
+	<path class="st3" d="M735,374.1c0,0-17.4,37.7-89.4,41.1c-55.2,2.6-88.2,6.9-109.7,10.3"/>
+	<path class="st3" d="M453.9,234.4c-0.9,38,6,100.5,6.3,120.6"/>
+</g>
+<g id="tabletBg">
+	<path class="st4" d="M873,351.9H675.5c-3.4,0-6.1-2.7-6.1-6.1V226c0-3.4,2.7-6.1,6.1-6.1H873c3.4,0,6.1,2.7,6.1,6.1v119.8
+		C879.1,349.1,876.4,351.9,873,351.9z"/>
+</g>
+<g id="tabletFg">
+	<path class="st5" d="M870.1,348.5H678.2c-3.4,0-6.1-2.7-6.1-6.1V229.3c0-3.4,2.7-6.1,6.1-6.1h191.9c3.4,0,6.1,2.7,6.1,6.1v113.1
+		C876.2,345.8,873.5,348.5,870.1,348.5z"/>
+</g>
+<g id="tabletCamera">
+	<circle class="st6" cx="679.8" cy="285.9" r="4.7"/>
+</g>
+<g id="phoneBg">
+	<path class="st4" d="M200.4,325.8h-71.6c-3,0-5.5-2.4-5.5-5.5v-125c0-3,2.4-5.5,5.5-5.5h71.6c3,0,5.5,2.4,5.5,5.5v125
+		C205.9,323.3,203.4,325.8,200.4,325.8z"/>
+</g>
+<g id="phoneFg">
+	<path class="st5" d="M197.4,322h-65.7c-3,0-5.5-2.4-5.5-5.5V198.5c0-3,2.4-5.5,5.5-5.5h65.7c3,0,5.5,2.4,5.5,5.5v118.1
+		C202.9,319.6,200.5,322,197.4,322z"/>
+</g>
+<g id="phoneButton">
+	<circle class="st6" cx="164.6" cy="312" r="6.1"/>
+</g>
+<g id="laptopBg">
+	<path class="st7" d="M579.5,200.9H328V71.6c0-5.9,4.8-10.7,10.7-10.7h230.2c5.9,0,10.7,4.8,10.7,10.7V200.9z"/>
+</g>
+<g id="laptopScreen">
+	<path class="st5" d="M576.7,199.6H330.8v-126c0-5.9,4.8-10.7,10.7-10.7H566c5.9,0,10.7,4.8,10.7,10.7V199.6z"/>
+</g>
+<g id="laptopCamera">
+	<circle class="st6" cx="453.8" cy="69.3" r="4.2"/>
+</g>
+<g id="laptopBase">
+	<path class="st4" d="M584.2,216H323.4c-2.4,0-4.4-2-4.4-4.4v-7.7c0-2.4,2-4.4,4.4-4.4h260.8c2.4,0,4.4,2,4.4,4.4v7.7
+		C588.6,214,586.6,216,584.2,216z"/>
+</g>
+</svg>

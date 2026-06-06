@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 605.1 418.3" style="enable-background:new 0 0 605.1 418.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:none;stroke:url(#SVGID_1_);stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	
+		.st2{fill:none;stroke:url(#SVGID_00000088116784916782922210000008504600351940289428_);stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	
+		.st3{fill:none;stroke:url(#SVGID_00000044154036689020710930000015781307740044914571_);stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	
+		.st4{fill:none;stroke:url(#SVGID_00000085930223041355622210000006730644274868852888_);stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill:#E2E2E2;}
+	.st6{fill:none;stroke:#595959;stroke-width:6;stroke-linecap:round;stroke-miterlimit:10;}
+	.st7{fill:#C9C9C9;}
+	.st8{fill:#828282;}
+	.st9{fill:#BCBCBC;}
+	.st10{fill:#DBDBDB;}
+	.st11{fill:#A8A8A8;}
+	.st12{fill:#D6D6D6;}
+	.st13{fill:#E5E5E5;}
+	.st14{fill:#231F20;}
+</style>
+<g id="Layer_23" class="st0">
+</g>
+<g id="serverConnect">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="88.7857" y1="153.2143" x2="278.6429" y2="153.2143">
+		<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+		<stop  offset="0.5196" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<polyline class="st1" points="91.3,125.6 105,139.3 225.6,139.3 276.1,180.9 	"/>
+</g>
+<g id="tabletConnector">
+	
+		<linearGradient id="SVGID_00000021076862530495009450000001945222013282639039_" gradientUnits="userSpaceOnUse" x1="329.6429" y1="251.1429" x2="486.6429" y2="251.1429" gradientTransform="matrix(-1 0 0 -1 816.2857 502.2857)">
+		<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+		<stop  offset="0.514" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	
+		<polyline style="fill:none;stroke:url(#SVGID_00000021076862530495009450000001945222013282639039_);stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;" points="
+		484.1,283.9 461.3,271 378.7,271 332.1,218.4 	"/>
+</g>
+<g id="phoneConnector">
+	
+		<linearGradient id="SVGID_00000026124691739533448550000002453433474999850880_" gradientUnits="userSpaceOnUse" x1="332.7857" y1="143.5" x2="484.5" y2="143.5">
+		<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+		<stop  offset="0.514" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	
+		<polyline style="fill:none;stroke:url(#SVGID_00000026124691739533448550000002453433474999850880_);stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;" points="
+		335.3,176.4 371,140.7 451.9,140.7 482,110.6 	"/>
+</g>
+<g id="laptopConnector">
+	
+		<linearGradient id="SVGID_00000061472741683664210230000001278217347086790318_" gradientUnits="userSpaceOnUse" x1="97.7857" y1="252.8571" x2="276.2143" y2="252.8571">
+		<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+		<stop  offset="0.5196" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	
+		<polyline style="fill:none;stroke:url(#SVGID_00000061472741683664210230000001278217347086790318_);stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;" points="
+		273.7,222 226,283.7 100.3,283.7 	"/>
+</g>
+<g id="baseLandingCircle">
+	<ellipse class="st5" cx="307.2" cy="197.6" rx="40.9" ry="47.1"/>
+</g>
+<g id="web">
+	<line class="st6" x1="307.2" y1="157.6" x2="307.2" y2="39.4"/>
+</g>
+<g id="serverBase">
+	<path class="st7" d="M129.3,79.7H54.4c-2.1,0-3.7-1.7-3.7-3.7v-8.6c0-2.1,1.7-3.7,3.7-3.7h74.9c2.1,0,3.7,1.7,3.7,3.7V76
+		C133,78.1,131.3,79.7,129.3,79.7z"/>
+	<path class="st7" d="M129.3,100.9H54.4c-2.1,0-3.7-1.7-3.7-3.7v-8.6c0-2.1,1.7-3.7,3.7-3.7h74.9c2.1,0,3.7,1.7,3.7,3.7v8.6
+		C133,99.2,131.3,100.9,129.3,100.9z"/>
+	<path class="st7" d="M129.3,122H54.4c-2.1,0-3.7-1.7-3.7-3.7v-8.6c0-2.1,1.7-3.7,3.7-3.7h74.9c2.1,0,3.7,1.7,3.7,3.7v8.6
+		C133,120.3,131.3,122,129.3,122z"/>
+</g>
+<g id="serverButton">
+	<circle class="st8" cx="59.3" cy="71.7" r="5.1"/>
+</g>
+<g id="phoneBg">
+	<path class="st9" d="M546.2,161.4h-50.3c-3.3,0-6-2.7-6-6V69.7c0-3.3,2.7-6,6-6h50.3c3.3,0,6,2.7,6,6v85.7
+		C552.2,158.7,549.5,161.4,546.2,161.4z"/>
+</g>
+<g id="phoneScreen">
+	<path class="st10" d="M545.9,158.5h-49.8c-1.7,0-3.1-1.4-3.1-3.1V69.7c0-1.7,1.4-3.1,3.1-3.1h49.8c1.7,0,3.1,1.4,3.1,3.1v85.7
+		C549,157.1,547.6,158.5,545.9,158.5z"/>
+</g>
+<g id="phoneButton">
+	<circle class="st8" cx="521" cy="152.6" r="4"/>
+</g>
+<g id="tabletBg">
+	<path class="st9" d="M545,364.6H435.9c-3.9,0-7.1-3.2-7.1-7.1v-60.6c0-3.9,3.2-7.1,7.1-7.1H545c3.9,0,7.1,3.2,7.1,7.1v60.6
+		C552.2,361.4,549,364.6,545,364.6z"/>
+</g>
+<g id="tabletScreen">
+	<path class="st10" d="M544.3,360.5H436.6c-2.8,0-5.1-2.3-5.1-5.1v-56.3c0-2.8,2.3-5.1,5.1-5.1h107.7c2.8,0,5.1,2.3,5.1,5.1v56.3
+		C549.5,358.2,547.2,360.5,544.3,360.5z"/>
+</g>
+<g id="tabletCamera">
+	<circle class="st8" cx="490.5" cy="298.4" r="2.8"/>
+</g>
+<g id="laptopBase">
+	<path class="st11" d="M172.8,364.6H54.3c-2,0-3.6-1.6-3.6-3.6v-2.3h125.7v2.3C176.4,363,174.8,364.6,172.8,364.6z"/>
+</g>
+<g id="laptopnScreen">
+	<path class="st9" d="M172.7,356.4H54.4v-62.2c0-2.5,2-4.5,4.5-4.5h109.3c2.5,0,4.5,2,4.5,4.5V356.4z"/>
+</g>
+<g id="laptopnCamera">
+	<circle class="st8" cx="113.6" cy="297.8" r="5.1"/>
+</g>
+<g id="spiderlegs">
+	<path class="st9" d="M231.9,182.1c-0.7,0-1.4-0.2-1.9-0.7c-1.3-1.1-1.4-3-0.3-4.2l21.5-25.2l31.2,14.7c1.5,0.7,2.1,2.5,1.4,4
+		c-0.7,1.5-2.5,2.1-4,1.4l-27.1-12.7l-18.5,21.7C233.6,181.8,232.7,182.1,231.9,182.1z"/>
+	<path class="st9" d="M234.1,218.6c-0.4,0-0.7-0.1-1.1-0.2c-1.5-0.6-2.3-2.4-1.7-3.9l12.2-30.8l34.3,3.8c1.6,0.2,2.8,1.7,2.7,3.3
+		c-0.2,1.6-1.7,2.8-3.3,2.7l-29.7-3.3l-10.5,26.5C236.5,217.9,235.3,218.6,234.1,218.6z"/>
+	<path class="st9" d="M256.3,255.6c-1.4,0-2.7-1-3-2.5l-5.3-32.7l31.4-14.3c1.5-0.7,3.3,0,4,1.5c0.7,1.5,0,3.3-1.5,4L254.7,224
+		l4.5,28.2c0.3,1.6-0.8,3.2-2.5,3.4C256.6,255.6,256.5,255.6,256.3,255.6z"/>
+	<path class="st9" d="M380.4,182.1c-0.8,0-1.7-0.4-2.3-1.1l-18.5-21.7l-27.1,12.7c-1.5,0.7-3.3,0.1-4-1.4c-0.7-1.5-0.1-3.3,1.4-4
+		l31.2-14.7l21.5,25.2c1.1,1.3,0.9,3.2-0.3,4.2C381.8,181.9,381.1,182.1,380.4,182.1z"/>
+	<path class="st9" d="M378.2,218.6c-1.2,0-2.3-0.7-2.8-1.9l-10.5-26.5l-29.7,3.3c-1.7,0.2-3.1-1-3.3-2.7c-0.2-1.6,1-3.1,2.7-3.3
+		l34.3-3.8l12.2,30.8c0.6,1.5-0.1,3.3-1.7,3.9C378.9,218.6,378.5,218.6,378.2,218.6z"/>
+	<path class="st9" d="M356,255.6c-0.2,0-0.3,0-0.5,0c-1.6-0.3-2.7-1.8-2.5-3.4l4.5-28.2l-27.2-12.4c-1.5-0.7-2.2-2.5-1.5-4
+		s2.5-2.2,4-1.5l31.4,14.3l-5.3,32.7C358.7,254.5,357.4,255.6,356,255.6z"/>
+</g>
+<g id="spiderHead">
+	<ellipse class="st12" cx="307.3" cy="235" rx="19.4" ry="15.7"/>
+</g>
+<g id="spiderBody">
+	<ellipse class="st9" cx="307" cy="197.1" rx="37.4" ry="43.1"/>
+</g>
+<g id="spiderSpots">
+	<circle class="st13" cx="286.4" cy="183.4" r="10.3"/>
+	<circle class="st13" cx="322.4" cy="212.7" r="13.7"/>
+	<circle class="st13" cx="284.9" cy="213.9" r="8.6"/>
+	<circle class="st13" cx="308.6" cy="191.9" r="4.6"/>
+	<circle class="st13" cx="331.3" cy="187.1" r="6.3"/>
+	<circle class="st13" cx="299.3" cy="202" r="4"/>
+	<circle class="st13" cx="301.9" cy="227.1" r="5.7"/>
+	<circle class="st13" cx="314.9" cy="171.1" r="11.4"/>
+</g>
+<g id="outline">
+	<g>
+		<path class="st14" d="M559.5,388.1H44.5c-11.2,0-20.3-9.1-20.3-20.3V56.3c0-11.2,9.1-20.3,20.3-20.3h514.9
+			c11.2,0,20.3,9.1,20.3,20.3v311.4C579.8,378.9,570.7,388.1,559.5,388.1z M44.5,40.9c-8.5,0-15.3,6.9-15.3,15.3v311.4
+			c0,8.5,6.9,15.3,15.3,15.3h514.9c8.5,0,15.3-6.9,15.3-15.3V56.3c0-8.5-6.9-15.3-15.3-15.3H44.5z"/>
+	</g>
+</g>
+</svg>

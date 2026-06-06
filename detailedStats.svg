@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 613.3 521.3" style="enable-background:new 0 0 613.3 521.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#5B5B5B;}
+	.st1{fill:#E2E0E0;}
+	.st2{fill:none;stroke:#A3A3A3;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#A3A3A3;}
+	.st4{fill:#BFBFBF;}
+</style>
+<g id="bg">
+	<path class="st0" d="M535.1,486.7H40.9c-7.3,0-13.2-5.9-13.2-13.2v-395c0-7.3,5.9-13.2,13.2-13.2h494.3c7.3,0,13.2,5.9,13.2,13.2
+		v395C548.3,480.8,542.4,486.7,535.1,486.7z"/>
+</g>
+<g id="fg">
+	<path class="st1" d="M574.5,447.3H80.2c-7.3,0-13.2-5.9-13.2-13.2v-395C67,31.9,72.9,26,80.2,26h494.3c7.3,0,13.2,5.9,13.2,13.2
+		v395C587.6,441.4,581.7,447.3,574.5,447.3z"/>
+</g>
+<g id="chartAxes">
+	<polyline class="st2" points="326.7,230 326.7,392.3 513.1,392.3 	"/>
+</g>
+<g id="plotLine">
+	<polyline class="st2" points="345.9,371.2 380.6,315.5 423.3,321.7 495.2,249.8 	"/>
+</g>
+<g id="barGraphOne">
+	<path class="st3" d="M286.5,351.8v37c0,3.2-2.6,5.8-5.8,5.8H145.8c-3.2,0-5.8-2.6-5.8-5.8v-37c0-3.2,2.6-5.8,5.8-5.8h134.9
+		C283.9,345.9,286.5,348.6,286.5,351.8z"/>
+</g>
+<g id="barGraphTwo">
+	<path class="st3" d="M286.5,289.5v37c0,3.2-2.6,5.8-5.8,5.8h-96c-3.2,0-5.8-2.6-5.8-5.8v-37c0-3.2,2.6-5.8,5.8-5.8h96
+		C283.9,283.7,286.5,286.3,286.5,289.5z"/>
+</g>
+<g id="barGraphThree">
+	<path class="st3" d="M286.5,227.3v37c0,3.2-2.6,5.8-5.8,5.8h-59c-3.2,0-5.8-2.6-5.8-5.8v-37c0-3.2,2.6-5.8,5.8-5.8h59
+		C283.9,221.4,286.5,224,286.5,227.3z"/>
+</g>
+<g id="barGraphFour">
+	<path class="st3" d="M396.7,201h-38.9c-2.7,0-4.9-2.2-4.9-4.9V59.3c0-2.7,2.2-4.9,4.9-4.9h38.9c2.7,0,4.9,2.2,4.9,4.9v136.8
+		C401.6,198.8,399.4,201,396.7,201z"/>
+</g>
+<g id="barGraphFive">
+	<path class="st3" d="M459,201h-38.9c-2.7,0-4.9-2.2-4.9-4.9V98.2c0-2.7,2.2-4.9,4.9-4.9H459c2.7,0,4.9,2.2,4.9,4.9v97.9
+		C463.8,198.8,461.7,201,459,201z"/>
+</g>
+<g id="barGraphSix">
+	<path class="st3" d="M521.2,201h-38.9c-2.7,0-4.9-2.2-4.9-4.9v-61c0-2.7,2.2-4.9,4.9-4.9h38.9c2.7,0,4.9,2.2,4.9,4.9v61
+		C526.1,198.8,523.9,201,521.2,201z"/>
+</g>
+<g id="pieChartBg">
+	<g>
+		<circle class="st3" cx="231.7" cy="128.2" r="72"/>
+	</g>
+</g>
+<g id="pieChartFg">
+	<path class="st4" d="M231.7,56.2v67.4c0,2.7,2.2,4.9,5,4.9l67-0.3C303.7,88.4,271.4,56.2,231.7,56.2z"/>
+</g>
+</svg>

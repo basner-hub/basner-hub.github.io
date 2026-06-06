@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1060.6 894.9" style="enable-background:new 0 0 1060.6 894.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6B6B6B;}
+	.st1{fill:#A8A8A8;}
+	.st2{fill:#444444;}
+	.st3{fill:none;stroke:#878686;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#878686;}
+</style>
+<g id="bg">
+	<path class="st0" d="M508,642.8l-156.2,28.9v91.7c0,60,72.2,108.7,161.3,108.7s161.3-48.7,161.3-108.7v-91.7L508,642.8z"/>
+	<path class="st0" d="M887.1,522.4l-144.6,26.7V634c0,55.6,66.9,100.6,149.3,100.6s149.3-45,149.3-100.6v-84.9L887.1,522.4z"/>
+	<path class="st0" d="M158.1,447.9l-133,24.6v78.1c0,51.1,61.5,92.5,137.3,92.5s137.3-41.4,137.3-92.5v-78.1L158.1,447.9z"/>
+</g>
+<g id="fg">
+	<ellipse class="st1" cx="513.1" cy="671.7" rx="161.3" ry="108.7"/>
+	<ellipse class="st1" cx="891.8" cy="549.1" rx="149.3" ry="100.6"/>
+	<ellipse class="st1" cx="162.5" cy="472.5" rx="137.3" ry="92.5"/>
+</g>
+<g id="bubble">
+	<path class="st2" d="M848.6,92.9H170.3c-19.2,0-34.8,15.6-34.8,34.8v421c0,19.2,15.6,34.8,34.8,34.8h279.3l44.6,44.6
+		c8.4,8.4,22.1,8.4,30.5,0l44.6-44.6h279.3c19.2,0,34.8-15.6,34.8-34.8v-421C883.5,108.5,867.9,92.9,848.6,92.9z"/>
+</g>
+<g id="axis">
+	<polyline class="st3" points="197.1,144.9 197.1,527.5 811.8,527.5 	"/>
+</g>
+<g id="arrow">
+	<path class="st4" d="M683.8,449h73.8c3.7,0,5.8-4.2,3.5-7.2L724.7,394c-1.8-2.3-5.3-2.3-7.1,0l-37.3,47.8
+		C678,444.8,680.1,449,683.8,449z"/>
+</g>
+<g id="graphPath">
+	<polyline class="st3" points="238.5,455.5 321.1,371.5 414.5,387.5 533.1,306.2 603.8,319.5 742.5,223.5 	"/>
+</g>
+</svg>
